@@ -1,5 +1,5 @@
 什么值得买每日签到脚本 2022.04.12 
-===
+===2022.06.24
 
 <p align="center">
     <img src="https://img.shields.io/badge/Created on-2020.10-green"/>
